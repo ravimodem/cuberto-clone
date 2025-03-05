@@ -21,7 +21,7 @@ The assets used in this project are copyright of Cuberto. They have been used fo
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/bibhashanand/cuberto-clone.git`
+1. Clone the repository: `git clone https://github.com/ravimodem/cuberto-clone.git`
 2. Navigate to the project directory: `cd cuberto-clone`
 3. Open the `index.html` file in your preferred web browser.
 
